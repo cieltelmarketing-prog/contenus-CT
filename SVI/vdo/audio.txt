@@ -1,0 +1,10 @@
+Bonjour et bienvenue dans notre établissement.
+Nous vous remercions de votre appel.
+Afin de mieux traiter votre demande, merci de faire votre choix :
+
+– Tapez 1 pour le service commercial
+– Tapez 2 pour le service client
+– Tapez 3 pour la facturation
+– Tapez 0 pour laisser un message
+
+Sinon, merci de patienter, votre appel va être pris en charge...
